@@ -14,7 +14,12 @@
 <header>
 
 <nav>
-  <ul>            
+  <a href="aboutus"</a>
+  <a href="ourteam"</a>
+  <a href="policies"</a>
+  <a href="products"</a>
+  <a href="contactus"</a>
+</nav          
 <li><a About Us </a</li>    
 
 <p> At Mykonos Swimwear, we are reimagining swimwear as a catalyst for positive environmental change. Our mission is to create high-performance, elegantly designed swimwear that not only makes you look and feel incredible but also protects the very oceans and ecosystems that inspire our craft. </p>
