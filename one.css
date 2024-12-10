@@ -3,8 +3,8 @@
 
 body {
 	width: 600px;
-	margin: 0 auto;
-	font: 10pt/1.5em Poppins,"Poppins", lora, noto serif;
+	margin: 0;
+	font: 14pt Poppins, lora, noto serif;
    background: #CCFFFF;
 }
 
