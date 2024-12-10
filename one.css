@@ -19,7 +19,7 @@ aside{
 	min-height: 400px;
     padding-right: 30px;
     padding-top: 30px;
-    text-align: justify;
+    text-align: left;
     
 }
 
@@ -27,7 +27,7 @@ section{
 	float: right;
 	width: 300px;
    	padding-left: 30px;
-	border-left: 5px dotted #FFE6FF;
+	border-left: 10px dotted #FFE6FF;
     text-align: left;
 }
 
