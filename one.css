@@ -26,7 +26,7 @@ aside{
 section{
 	float: right;
 	width: 300px;
-   	padding-left: 30px;
+   	padding-left: 100px;
 	border-left: 10px dotted #FFE6FF;
     text-align: center;
 }
@@ -46,7 +46,7 @@ ul {
     padding: 0;
     overflow: shown;
     background-color: #191970;
-    border-radius: 20px;
+    border-radius: 100px;
 }
 
 li {
